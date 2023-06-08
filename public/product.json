@@ -1,0 +1,38 @@
+[
+  {
+    "_id": 1,
+    "img": "https://i5.walmartimages.com/asr/8e769542-29af-4ece-bdaf-df9f8e5b737b.e76850f4a1d4cbe5c6cff4c2e196f950.jpeg?odnHeight=320&odnWidth=320&odnBg=FFFFFF",
+    "name": "Car Engine Plug",
+    "price": 20
+  },
+  {
+    "_id": 2,
+    "img": "https://i5.walmartimages.com/asr/8e769542-29af-4ece-bdaf-df9f8e5b737b.e76850f4a1d4cbe5c6cff4c2e196f950.jpeg?odnHeight=320&odnWidth=320&odnBg=FFFFFF",
+    "name": "Car Engine Plug",
+    "price": 20
+  },
+  {
+    "_id": 3,
+    "img": "https://i5.walmartimages.com/asr/8e769542-29af-4ece-bdaf-df9f8e5b737b.e76850f4a1d4cbe5c6cff4c2e196f950.jpeg?odnHeight=320&odnWidth=320&odnBg=FFFFFF",
+    "name": "Car Engine Plug",
+    "price": 20
+  },
+  {
+    "_id": 4,
+    "img": "https://i5.walmartimages.com/asr/8e769542-29af-4ece-bdaf-df9f8e5b737b.e76850f4a1d4cbe5c6cff4c2e196f950.jpeg?odnHeight=320&odnWidth=320&odnBg=FFFFFF",
+    "name": "Car Engine Plug",
+    "price": 20
+  },
+  {
+    "_id": 5,
+    "img": "https://i5.walmartimages.com/asr/8e769542-29af-4ece-bdaf-df9f8e5b737b.e76850f4a1d4cbe5c6cff4c2e196f950.jpeg?odnHeight=320&odnWidth=320&odnBg=FFFFFF",
+    "name": "Car Engine Plug",
+    "price": 20
+  },
+  {
+    "_id": 6,
+    "img": "https://i5.walmartimages.com/asr/8e769542-29af-4ece-bdaf-df9f8e5b737b.e76850f4a1d4cbe5c6cff4c2e196f950.jpeg?odnHeight=320&odnWidth=320&odnBg=FFFFFF",
+    "name": "Car Engine Plug",
+    "price": 20
+  }
+]
